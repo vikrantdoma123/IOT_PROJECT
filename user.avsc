@@ -1,0 +1,11 @@
+{"namespace": "example.avro",
+ "type": "record",
+ "name": "User",
+ "fields": [
+     {"name": "Rand_int_1",  "type": ["int", "null"]},
+     {"name": "Rand_int_2",  "type": ["int", "null"]},
+     {"name": "Rand_int_3", "type": ["int", "null"]},
+     {"name": "Rand_int_4", "type": ["int", "null"]},
+     {"name": "Rand_int_5", "type": ["int", "null"]}
+ ]
+}
